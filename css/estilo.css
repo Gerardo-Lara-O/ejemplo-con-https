@@ -1,0 +1,27 @@
+#container{
+    text-align: center;
+
+}
+#container-header{
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+#container-header h1{
+    color: tomato;
+}
+
+#container-body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+
+}
+
+#container-body p{
+    color: aliceblue;
+    background-color: green;
+    padding: 15px;
+    margin: 0 20%;
+    
+}
